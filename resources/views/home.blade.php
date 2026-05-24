@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Home</h1>
+    <p></p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, voluptate.</p>
 </body>
 </html>
