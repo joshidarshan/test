@@ -1,0 +1,8 @@
+/* public/css/table/orders.css */
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.orders-row:hover {
+    background: rgba(255, 255, 255, 0.05);
+}

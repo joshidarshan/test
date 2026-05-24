@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".stat-value").forEach(function(t){var e=parseInt(t.textContent,10);if(!isNaN(e))var n=0,a=Math.abs(Math.floor(1200/e)),o=setInterval(function(){n+=1,t.textContent=n+(t.dataset.suffix||""),n>=e&&clearInterval(o)},a)})});

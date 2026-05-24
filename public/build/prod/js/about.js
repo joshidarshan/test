@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".value-card").forEach(function(t,e){t.style.opacity="0",t.style.transform="translateY(15px)",t.style.transition="all 0.5s cubic-bezier(0.25, 0.8, 0.25, 1)",setTimeout(function(){t.style.opacity="1",t.style.transform="translateY(0)"},120*(e+1))})});

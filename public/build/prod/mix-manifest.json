@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/about.js": "/js/about.js",
+    "/js/contact.js": "/js/contact.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/login.js": "/js/login.js",
+    "/js/test.js": "/js/test.js",
+    "/css/dashboard.css": "/css/dashboard.css",
+    "/css/contact.css": "/css/contact.css",
+    "/css/about.css": "/css/about.css",
+    "/css/app.css": "/css/app.css",
+    "/css/login.css": "/css/login.css",
+    "/css/test.css": "/css/test.css",
+    "/css/table/orders.css": "/css/table/orders.css",
+    "/css/list/users.css": "/css/list/users.css"
+}

@@ -1,0 +1,6 @@
+/* public/css/list/users.css */
+.user-list-item {
+    padding: 12px;
+    background: rgba(255, 255, 255, 0.02);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
