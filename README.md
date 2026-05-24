@@ -62,4 +62,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # test project 01 01
 >>>>>>> e06036e004e8e5d9ba85eafba660ef6217d9ef46
 >>>>>
->>>>>acdd
+>>>>> add home file 
