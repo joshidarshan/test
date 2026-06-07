@@ -28,7 +28,6 @@
     <div></div>
     <div></div>
 
-        <br>
         <!-- Main Workspace -->
         <main class="main-content">
             <header>
