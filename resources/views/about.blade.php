@@ -22,6 +22,11 @@
                 <li class="nav-item"><a href="{{ route('login') }}">Sign Out</a></li>
             </ul>
         </aside>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
 
         <!-- Main Workspace -->
         <main class="main-content">
