@@ -249,3 +249,6 @@ body::after {
 {
     background-color: black;
 }
+.add{
+    background-color: red;
+}
