@@ -22,7 +22,7 @@
                 <li class="nav-item"><a href="{{ route('login') }}">Sign Out</a></li>
             </ul>
         </aside>
-
+        <br>
         <!-- Main Workspace -->
         <main class="main-content">
             <header>
